@@ -1,0 +1,12 @@
+body {
+  background: radial-gradient(circle at center, #000010 30%, #000000 100%);
+  font-family: "Roboto", sans-serif;
+}
+
+h1, h2, h3 {
+  text-shadow: 0 0 10px #00bfff;
+}
+
+img {
+  cursor: pointer;
+}
